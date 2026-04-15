@@ -3,7 +3,7 @@
 const hobbies = ["hiking", "swimming", "kayaking", "camping", "coding"];
 
 /*
-    Quick demo on questions regarding arrays.
+    Quick demo on questions regarding arrays and loops.
 */
 console.log("Traditional For Loop");
 for (let index = 0; index < hobbies.length; index++) {
